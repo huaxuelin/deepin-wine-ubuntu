@@ -84,7 +84,7 @@ WINEPREFIX=~/.deepinwine/Deepin-TIM deepin-wine "c:\\install_flash_player_ppapi.
 
 ## 三、推荐一个Ubuntu 下其他软件的安装
 
-https://www.jianshu.com/p/139fbe4071d6
+* 当时找到这个github仓库就是从这个地址跳转来的： https://www.jianshu.com/p/139fbe4071d6
 
 ## 四、参与贡献
 
