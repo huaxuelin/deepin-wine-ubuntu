@@ -82,7 +82,11 @@ WINEPREFIX=~/.deepinwine/Deepin-TIM deepin-wine "c:\\install_flash_player_ppapi.
 
 * 执行uninstall.sh即可
 
-## 三、参与贡献
+## 三、推荐一个Ubuntu 下其他软件的安装
+
+https://www.jianshu.com/p/139fbe4071d6
+
+## 四、参与贡献
 
 * 1. Fork 本项目
 * 2. 新建 Feat_xxx 分支
